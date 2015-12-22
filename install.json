@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "head": [{
+      "type": "style",
+      "src": "snow.css"
+    }],
+    "body": [{
+      "type": "script",
+      "src": "snow.js"
+    }]
+  }
+}
