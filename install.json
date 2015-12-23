@@ -8,5 +8,13 @@
       "type": "script",
       "src": "snow.js"
     }]
+  },
+  "options": {
+    "properties": {
+      "proCTA": {
+        "type": "help",
+        "helpvalue": "<p>Upgrade to <strong>Snow Pro</strong>  to customize the snow simulation.</p><ul><li>Set a timer to only show snow effect during the holidays or any dates of your choosing.</li><li>Set the intensity of the snow storm from “Light” all the way to “Blizzard”.</li><li>Adjust the wind conditions.</li><li>Set the snow color to perfectly match your site’s style.</li></ul><p>Snow Pro costs $1 per year but is free for a limited time if you send a tweet about Snow Pro to you followers.</p><p><a class=\"button primary fancy more slim\">Try Snow Pro instead</a></p>"
+      }
+    }
   }
 }
