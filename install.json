@@ -1,13 +1,17 @@
 {
   "resources": {
-    "head": [{
-      "type": "style",
-      "src": "snow.css"
-    }],
-    "body": [{
-      "type": "script",
-      "src": "snow.js"
-    }]
+    "head": [
+      {
+        "type": "style",
+        "src": "snow.css"
+      }
+    ],
+    "body": [
+      {
+        "type": "script",
+        "src": "snow.js"
+      }
+    ]
   },
   "options": {
     "properties": {
