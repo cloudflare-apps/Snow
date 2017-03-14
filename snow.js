@@ -1,10 +1,10 @@
 (function(){
-  var snow = document.createElement('eager-app-snow');
-  snow.innerHTML = '<eager-app-snow-a></eager-app-snow-a><eager-app-snow-b></eager-app-snow-b><eager-app-snow-c></eager-app-snow-c>';
+  var snow = document.createElement('cloudflare-app-snow');
+  snow.innerHTML = '<cloudflare-app-snow-a></cloudflare-app-snow-a><cloudflare-app-snow-b></cloudflare-app-snow-b><cloudflare-app-snow-c></cloudflare-app-snow-c>';
   document.body.appendChild(snow);
 
   setTimeout(function(){
-    snow.setAttribute('eager-app-snow-fade-out', '');
+    snow.setAttribute('cloudflare-app-snow-fade-out', '');
   }, 3 * 1000);
 
   setTimeout(function(){
